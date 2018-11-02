@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ loops\ constantly.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ None\r\n
+comment2.params=
+comment2.target=void\ checkKeys()
+comment2.text=\r\n\ Check\ the\ left\ and\ right\ keys\ to\ see\ if\ the\ player\ is\ holding\ one\ down.\r\n\ If\ they\ are,\ move\ left\ or\ right\ respectively.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ None\r\n
+comment3.params=
+comment3.target=void\ touchingLeaf()
+comment3.text=\r\n\ Checks\ if\ the\ catcher\ is\ touching\ a\ leaf.\ If\ it\ is,\ remove\ it\ and\ add\r\n\ one\ to\ the\ score.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ \r\n
+numComments=4

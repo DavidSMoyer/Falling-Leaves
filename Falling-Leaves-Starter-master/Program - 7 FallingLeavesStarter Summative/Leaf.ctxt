@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=
+comment1.target=Leaf()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ loops\ constantly.\r\n\ \r\n\ @return\ None\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+comment3.params=
+comment3.target=void\ randomRotation()
+comment3.text=\r\n\ Rotate\ a\ random\ amount\ between\ -10\ and\ 10.\r\n\ \r\n\ @return\ None\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+comment4.params=
+comment4.target=void\ touchingGround()
+comment4.text=\r\n\ Checks\ if\ the\ leaf\ is\ touching\ the\ ground.\ If\ it\ is,\ delete\ it.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ None\r\n
+numComments=5
